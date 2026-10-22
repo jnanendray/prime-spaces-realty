@@ -12,7 +12,7 @@ export default function WhatsAppButton() {
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Chat on WhatsApp"
-      className="fixed bottom-5 right-5 z-50 rounded-full bg-green-600 px-5 py-3 text-sm font-semibold text-white shadow-lg hover:bg-green-700"
+      className="fixed bottom-5 right-5 z-50 rounded-full bg-green-700 px-5 py-3 text-sm font-semibold text-white shadow-lg hover:bg-green-800"
     >
       Chat on WhatsApp
     </a>
